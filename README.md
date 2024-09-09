@@ -13,16 +13,8 @@ Admin Dashboard is a responsive web application built with React.js and Ant Desi
 
 ## Demo Site
 
-Check out the [demo site](https://admindashboard-zfhw.onrender.com/) to see the Admin Dashboard in action.
+Check out the [demo site](https://admindashboard0001.netlify.app/) to see the Admin Dashboard in action.
 
-## Installation
-
-To run the Admin Dashboard locally, follow these steps:
-
-1. Clone the repository: `git clone https://github.com/PrathameshDhande22/Admin-Dashboard-React.git`
-2. Navigate to the project directory: `cd Admin-Dashboard-React`
-3. Install the dependencies: `npm install`
-4. Start the development server: `npm start`
 
 ## Usage
 
@@ -34,21 +26,10 @@ To run the Admin Dashboard locally, follow these steps:
 
 - React.js
 - Ant Design
-- Chart.js
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+- Chart.js.
 
 ## Credits
 
 - The avatar, mail icon, and notification icons are sourced from [Ant Design Icons](https://ant.design/components/icon/).
 - Special thanks to the contributors and developers of React.js, Ant Design, and Chart.js for providing the tools and components that make this Admin Dashboard possible.
 
-## Screenshots
-![Orders Page](https://github.com/PrathameshDhande22/Admin-Dashboard-React/assets/87264935/aa5cb495-af15-42d9-b875-6663b3722758)
-![Customers Page](https://github.com/PrathameshDhande22/Admin-Dashboard-React/assets/87264935/efd81ebc-75dd-438d-a5f6-48cb1ab30236)
-![DashBoard HomePage](https://github.com/PrathameshDhande22/Admin-Dashboard-React/assets/87264935/e28f06ac-aaad-4e4c-af71-5da104e22ac1)
-![Inventory Page](https://github.com/PrathameshDhande22/Admin-Dashboard-React/assets/87264935/02a1b6ae-12f8-4521-8260-5c47910aaa2e)
-
-## Author : Prathamesh Dhande
