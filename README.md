@@ -1,7 +1,5 @@
 # Admin Dashboard in React JS
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-
 ## Overview
 
 Admin Dashboard is a responsive web application built with React.js and Ant Design. It provides a user-friendly interface for managing various aspects of the business. The dashboard includes four main routes:
